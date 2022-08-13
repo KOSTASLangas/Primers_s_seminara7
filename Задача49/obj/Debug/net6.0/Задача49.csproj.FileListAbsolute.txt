@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\bin\Debug\net6.0\Задача49.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\bin\Debug\net6.0\Задача49.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\bin\Debug\net6.0\Задача49.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\bin\Debug\net6.0\Задача49.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\bin\Debug\net6.0\Задача49.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\refint\Задача49.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\Задача49.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 7 (примеры и дз)\seminar\Задача49\obj\Debug\net6.0\ref\Задача49.dll
